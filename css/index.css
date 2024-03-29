@@ -486,17 +486,16 @@ body{
 /* end contact */
 
 /* start footer */
-.footer{
+.footer {
   background-color: var(--secondary-color);
+  color: white;
   padding: 30px 10px;
   text-align: center;
-  color: white;
   font-size: 18px;
 }
-
-.footer span{
+.footer span {
+  font-weight: bold;
   color: var(--main-color);
-  font-weight: 800;
 }
 /* end footer */
 
